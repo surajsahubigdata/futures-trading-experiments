@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+pandas
+pandas-ta
+plotly
+python-binance # Or ccxt for multi-exchange support
+google-generativeai
+python-dotenv
+httpx
+cachetools
+python-multipart
+snscrape
+tweepy
+matplotlib
+caas_jupyter_tools==0.0.2
